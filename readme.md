@@ -183,35 +183,56 @@ Location- India
 ## Research supervision and leadership experience
 
 ### Co-supervisor (Master thesis) and supervisor (summer job)
-•	Master of Electrical Energy – 2 students
-•	KIC Innoenergy, Master of Energy -1 student
-•	Master of Energy Science (Erasmus)- 1 student
-•	Summer internship on data visualization – 3 students
+  •	Master of Electrical Energy – 2 students
+  
+  •	KIC Innoenergy, Master of Energy -1 student
+  
+  •	Master of Energy Science (Erasmus)- 1 student
+  
+  •	Summer internship on data visualization – 3 students
 
-Mentor (PhD scholars): 3 (2 from KU Leuven, 1 from University of Oviedo)
+### Mentor (PhD scholars): 
 
-Project management/leadership
-•	Project Lead: Agricultural tariff recommendation; IIT Bombay
-•	Head of a Zone in Tata Power Delhi Distribution Limited responsible directly for 49 staffs, 30,000 consumers and 17 medium voltage feeders (industrial and residential)
-•	Work Package lead: Project BREGILAB, Energyville, Genk
-•	Coach, Project and Development, A project of second year Bachelor for building smart house (2 teams)
-•	Collaboration with researchers from VITO (Flemish research agency), CSIRO (Commonwealth Scientific and Industrial Research Organisation, Australia), Plexigrid (grid visualisation startup in Spain), BASF (Antwerp, Belgium), EDP-Spain (DSO in Spain), Fluvius (DSO in Belgium) and Mitznet (DSO in Germany)
+ 3 PhD students (2 from KU Leuven, 1 from University of Oviedo)
+
+### Project management/leadership
+  
+  •	Project Lead: Agricultural tariff recommendation; IIT Bombay
+  
+  •	Head of a Zone in Tata Power Delhi Distribution Limited responsible directly for 49 staffs, 30,000 consumers and 17 medium voltage feeders (industrial and residential)
+  
+  •	Work Package lead: Project BREGILAB, Energyville, Genk
+  
+  •	Coach, Project and Development, A project of second year Bachelor for building smart house (2 teams)
+  
+  •	Collaboration with researchers from VITO (Flemish research agency), CSIRO (Commonwealth Scientific and Industrial Research Organisation, Australia), Plexigrid (grid visualisation startup in Spain), BASF (Antwerp, Belgium), EDP-Spain (DSO in Spain), Fluvius (DSO in Belgium) and Mitznet (DSO in Germany)
 
 
 ## Awards and achievements
  
-•	Erasmus Mundus Scholarship–Erasmus Mundus- scholarship Holder awarded by EACEA (European Agency for Cultural and Educational Exchange), Brussels, Belgium. Tenable in European Union to pursue Master in Sustainable Transportation and Electrical Power Systems 2016-18.
-•	Global Electricity Scholar for the year 2016-18.
-•	Merit Scholar during Bachelor’s degree for the second Rank in Electrical Engineering.
-•	OP Jindal Leadership Award in the year 2010 and 2011 (for Bachelor’s study) for academic excellence and leadership traits.
-•	COMPEX scholarship awarded by Indian Embassy for Bachelor’s studies in India. The scholarship covers the full tuition fee and living allowance.
+##### Erasmus Mundus Scholarship–Erasmus Mundus
+ scholarship Holder awarded by EACEA (European Agency for Cultural and Educational Exchange), Brussels, Belgium. Tenable in European Union to pursue Master in Sustainable Transportation and Electrical Power Systems 2016-18.
+##### Global Electricity Scholar for the year 2016-18.
+##### Merit Scholar during Bachelor’s degree 
+for the second Rank out of 74 students in Electrical Engineering.
+##### OP Jindal Leadership Award 
+in the year 2010 and 2011 (for Bachelor’s study) for academic excellence and leadership traits.
+##### COMPEX scholarship awarded by Indian Embassy 
+   for Bachelor’s studies in India. The scholarship covers the full tuition fee and living allowance.
 
 ## Seminar/ Workshop attended 
-•	Summer school at DTU, Copenhagen, Denmark on data analytics, optimization of energy systems and modern challenges with power system operation and energy markets.
-•	Workshop on presentation skills organized by KU Leuven, Doctoral school, Belgium.
-•	2019 International Conference on Smart Energy Systems and Technologies (SEST), Porto, Portugal, 09-11 Sep 2019.
-•	16th International Conference on Probabilistic Methods Applied to Power Systems, Liege, Belgium, 18-21 Aug 2020.
-•	2021 International Conference on Smart Energy Systems and Technologies (SEST), Vaasa, Finland, 06 Sep 2021-08 Sep 2021.
-•	Power Systems Computation Conference (PSCC) 2022, Porto, Portugal, 27 Jun 2022-01 Jul 2022.
-•	IEEE PES ISGT conference 2022, Novi Sad, Serbia, 9 Oct 2022-13 Oct 2022.
+
+  •	Summer school at DTU, Copenhagen, Denmark on data analytics, optimization of energy systems and modern challenges with power system operation and energy markets.
+  
+  •	Workshop on presentation skills organized by KU Leuven, Doctoral school, Belgium.
+  
+  •	2019 International Conference on Smart Energy Systems and Technologies (SEST), Porto, Portugal, 09-11 Sep 2019.
+ 
+  •	16th International Conference on Probabilistic Methods Applied to Power Systems, Liege, Belgium, 18-21 Aug 2020.
+  
+  •	2021 International Conference on Smart Energy Systems and Technologies (SEST), Vaasa, Finland, 06 Sep 2021-08 Sep 2021.
+  
+  •	Power Systems Computation Conference (PSCC) 2022, Porto, Portugal, 27 Jun 2022-01 Jul 2022.
+  
+  •	IEEE PES ISGT conference 2022, Novi Sad, Serbia, 9 Oct 2022-13 Oct 2022.
 
