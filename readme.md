@@ -142,13 +142,14 @@ Top papers: (Citations from google scholar, Total citation: 102)
 3.	Koirala, A., D'hulst, R., Van Hertem, D. (2019). Impedance modelling for European style Distribution Feeder. In: 2019 International Conference on Smart Energy Systems and Technologies (SEST), (1-1). Presented at the 2019 International Conference on Smart Energy Systems and Technologies (SEST), Porto, Portugal, 09 Sep 2019-11 Sep 2019. doi: 10.1109/SEST.2019.8849015 (citations: 12) 
 4.	Koirala, A., Van Acker, T., D'hulst, R., Van Hertem, D. with Koirala, A. (corresp. author) (2022). Uncertainty quantification in low voltage distribution grids: Comparing Monte Carlo and general polynomial chaos approaches. Sustainable Energy, Grids and Networks, Art.No. 100763. doi: 10.1016/j.segan.2022.100763 (citations: 2) (Impact factor: 3.90)
 5.	Koirala, A., Hashmi, M.U., D'hulst, R., Van Hertem, D. (2022). Decoupled probabilistic feeder hosting capacity calculations using general polynomial chaos. Electric Power Systems Research, 211, Art.No. 108535. doi: 10.1016/j.epsr.2022.108535 (Impact factor: 3.41) 
-6.	6.	Van Acker, T., Geth, F., Koirala, A., Ergun, H. (2022). General polynomial chaos in the current–voltage formulation of the optimal power flow problem. Electric Power Systems Research, 211, Art.No. 108472. doi: 10.1016/j.epsr.2022.108472 (Impact factor: 3.41)
+6.	Van Acker, T., Geth, F., Koirala, A., Ergun, H. (2022). General polynomial chaos in the current–voltage formulation of the optimal power flow problem. Electric Power Systems Research, 211, Art.No. 108472. doi: 10.1016/j.epsr.2022.108472 (Impact factor: 3.41)
 7.	Hoogsteyn, A., Vanin, M., Koirala, A., Van Hertem, D. (2022). Low voltage customer phase identification methods based on smart meter data. Electric Power Systems Research, 212, Art.No. 108524. doi: 10.1016/j.epsr.2022.108524 (citations: 2) (Impact factor: 3.41)
 8.	Hashmi, M.U., Koirala, A., Ergun, H., Van Hertem, D. (2022). Flexible and curtailable resource activation in three-phase unbalanced distribution networks. Electric Power Systems Research, 212, Art.No. 108608. doi: 10.1016/j.epsr.2022.108608 (Impact factor: 3.41)
 9.	Geth, F., Heidari, R., Koirala, A. (2022). Computational Analysis of Impedance Transformations for Four-Wire Power Networks with Sparse Neutral Grounding. In: e-Energy '22: Proceedings of the Thirteenth ACM International Conference on Future Energy Systems, (105-113). Presented at the ACM e-Energy 2022, Virtual, 29 Jun 2022-01 Jul 2022. New York, NY, United States. ISBN: 978-1-4503-9397-3. doi: 10.1145/3538637.3538844
 
 
 ## Tools and Open data
+
 1.	StochasticPowerModels.jl : A Julia package to have stochastic optimization of power system problems https://github.com/timmyfaraday/StochasticPowerModels.jl 
 2.	ADRIAN: In house tool of Flemish Research Agency VITO for stochastic power flow. Added a module for analytical method using general polynomial chaos using agile methodology (scrum)
 3.	Non-synthetic European Low voltage network: Data processing tool for EDP, Spain to convert GIS data into power flow simulation with integration of data from 4 different platform https://data.mendeley.com/datasets/685vgp64sm/1
