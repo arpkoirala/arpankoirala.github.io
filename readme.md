@@ -45,11 +45,9 @@ GPA-9.28/10, Percentage-92.80
 
 KU Leuven and Energyville, Belgium 
 
-Location- Belgium, 
-
-##### Worked on three different projects with work package leader of one
-##### Supervised 4 master thesis students and 4 summer job interns
-##### Participated in 2 new proposals for EU and Belgian funding
+######    • Worked on three different projects with work package leader of one
+######    • Supervised 4 master thesis students and 4 summer job interns
+######    • Participated in 2 new proposals for EU and Belgian funding
 
 ### Grid studies for bidirectional and fluctuating electricity flow: Project BREGILAB (2018-2022)
 
@@ -61,14 +59,19 @@ Project partners: KU Leuven, VITO, IMEC, University of Hasselt
 
 Responsible for one complete work package out of seven
 
-  •	Probabilistic grid congestion studies in low voltage distribution systems using simulation based approach (Monte-Carlo and quasi Monte-Carlo approach) and analytical surrogate modelling based methods (general polynomial chaos (gPC) approach).
-  •	Innovative Hosting Capacity calculation methods to see the impact of planning scenarios in operational limits.
-  •	Chance constrained optimization tool to calculate stochastic hosting capacity.
+    •	Probabilistic grid congestion studies in low voltage distribution systems using simulation based approach (Monte-Carlo and quasi Monte-Carlo approach) and analytical surrogate modelling based methods (general polynomial chaos (gPC) approach).
+    
+    •	Innovative Hosting Capacity calculation methods to see the impact of planning scenarios in operational limits.
+    
+    •	Chance constrained optimization tool to calculate stochastic hosting capacity.
 
 #### Main results
- •	Methodology to compute hosting capacity of distribution feeders of Flanders region in Belgium.
- •	Test cases of active load management.
- •	Collaboration to form an energy atlas (map with energy potential) of Belgium.
+ 
+   •	Methodology to compute hosting capacity of distribution feeders of Flanders region in Belgium.
+ 
+   •	Test cases of active load management.
+ 
+   •	Collaboration to form an energy atlas (map with energy potential) of Belgium.
 
 ### Developing Universal Approach on use of Flexibility by Distribution System Operators: Project EUniversal (2020-2022)
 
@@ -90,11 +93,13 @@ Funded by Fluvius (A DSO in Flanders region of Belgium)
 Project partners: KU Leuven, VITO, Fluvius
 
 #### Main tasks
- •	Python implementation for hosting capacity assessment tool
- •	Evaluation and mapping of PV hosting capacity of all feeders (350,000) of the Flanders region in Belgium  
+   •	Python implementation for hosting capacity assessment tool
+ 
+   •	Evaluation and mapping of PV hosting capacity of all feeders (350,000) of the Flanders region in Belgium  
 
 #### Main results
- •	Python based Tool for DSO to evaluate the hosting capacity of their feeders
+   
+   •	Python based Tool for DSO to evaluate the hosting capacity of their feeders
 
 
 ### Data driven optimization models for secure real-time operation of renewable dominated power systems: Project DISCRETE (2022-2025)
@@ -104,7 +109,8 @@ Funded by Federal Department of Energy, Energy transition Fund
 Project partners: KU Leuven, University of Mons
 
 #### Main tasks
-  •	Ongoing Julia implementation of analytical stochastic optimal power flow tool for HVDC network
+  
+    •	Ongoing Julia implementation of analytical stochastic optimal power flow tool for HVDC network
 
 
 
@@ -119,8 +125,10 @@ Location- Spain
 #### Real European low voltage test network for smart grid applications
 
 ##### Main results
-  •	A methodology to integrate data from different sources GIS data, smart meter data, SCADA and field measurements (from EDP) into a common platform to have steady-state analysis of the system.
-  •	Non-synthetic European Low voltage network: Data processing tool for EDP, Spain to convert GIS data into power flow simulation with integration of data from 4 different platform.
+
+    •	A methodology to integrate data from different sources GIS data, smart meter data, SCADA and field measurements (from EDP) into a common platform to have steady-state analysis of the system.
+  
+    •	Non-synthetic European Low voltage network: Data processing tool for EDP, Spain to convert GIS data into power flow simulation with integration of data from 4 different platform.
 
 ### Consultant (April 2016 – August 2016) 
 
@@ -132,7 +140,8 @@ Location- India
 #### Consultant for three state distribution companies in India.
 
 ##### Main results
-  •	Data and reports regarding the tariff of agricultural consumers of different states for the state regulatory.
+    
+    •	Data and reports regarding the tariff of agricultural consumers of different states for the state regulatory.
 
 ### Electrical Engineer (July 2013 – December 2015) 
 
@@ -143,8 +152,10 @@ Location- India
 #### Predictive and preventive maintenance activity planning and execution of 33 kV and 11 kV grids and commercial and operation head for a district with 40000 customers (Industrial and residential mix).
 
 ##### Main results
-  •	Network improvement in seven urban ghettos of New Delhi with a population of 0.3 billion in 3 square km of area reducing theft from existing 13% to 6%.
-  • Introduced analytical tools for theft detection in low voltage distribution network.
+  
+    •	Network improvement in seven urban ghettos of New Delhi with a population of 0.3 billion in 3 square km of area reducing theft from existing 13% to 6%.
+  
+    • Introduced analytical tools for theft detection in low voltage distribution network.
 
  
 ## Publications:
@@ -152,29 +163,42 @@ Location- India
  8 Journals (4 Journals as main author, and 4 as co-author), 11 conference papers (4 as main author) 
 
 ### Top papers: (Citations from google scholar, Total citation: 102)
-  1.	Koirala, A., Van Acker, T., D’hulst, R., Van Hertem, D. with Koirala, A. (corresp. author) (2022). Hosting capacity of photovoltaic systems in low voltage distribution systems: A benchmark of deterministic and stochastic approaches. Renewable and Sustainable Energy Reviews, 155, Art.No. 111899. doi: <a href="10.1016/j.rser.2021.111899"> 10.1016/j.rser.2021.111899 </a> (citations: 12) (Impact factor: 14.98)
-  2.	Koirala, A., Suárez-Ramón, L., Mohamed, B., Arboleya, P. with Arboleya, P. (corresp. author) (2020). Non-synthetic European low voltage test system. International Journal of Electrical Power & Energy Systems, Art.No. 105712. doi: <a href="10.1016/j.ijepes.2019.105712"> 10.1016/j.ijepes.2019.105712 </a> (citations: 41) (Impact factor: 4.63)
-  3.	Koirala, A., D'hulst, R., Van Hertem, D. (2019). Impedance modelling for European style Distribution Feeder. In: 2019 International Conference on Smart Energy Systems and Technologies (SEST), (1-1). Presented at the 2019 International Conference on Smart Energy Systems and Technologies (SEST), Porto, Portugal, 09 Sep 2019-11 Sep 2019. doi: <a href="10.1109/SEST.2019.8849015"> 10.1109/SEST.2019.8849015 </a> (citations: 12) 
-  4.	Koirala, A., Van Acker, T., D'hulst, R., Van Hertem, D. with Koirala, A. (corresp. author) (2022). Uncertainty quantification in low voltage distribution grids: Comparing Monte Carlo and general polynomial chaos approaches. Sustainable Energy, Grids and Networks, Art.No. 100763. doi: <a href="10.1016/j.segan.2022.100763"> 10.1016/j.segan.2022.100763 </a> (citations: 2) (Impact factor: 3.90)
-  5.	Koirala, A., Hashmi, M.U., D'hulst, R., Van Hertem, D. (2022). Decoupled probabilistic feeder hosting capacity calculations using general polynomial chaos. Electric Power Systems Research, 211, Art.No. 108535. doi: <a href="10.1016/j.epsr.2022.108535"> 10.1016/j.epsr.2022.108535 </a> (Impact factor: 3.41) 
-  6.	Van Acker, T., Geth, F., Koirala, A., Ergun, H. (2022). General polynomial chaos in the current–voltage formulation of the optimal power flow problem. Electric Power Systems Research, 211, Art.No. 108472. doi: <a href="10.1016/j.epsr.2022.108472"> 10.1016/j.epsr.2022.108472 </a> (Impact factor: 3.41)
-  7.	Hoogsteyn, A., Vanin, M., Koirala, A., Van Hertem, D. (2022). Low voltage customer phase identification methods based on smart meter data. Electric Power Systems Research, 212, Art.No. 108524. doi: <a href="10.1016/j.epsr.2022.108524"> 10.1016/j.epsr.2022.108524 </a> (citations: 2) (Impact factor: 3.41)
-  8.	Hashmi, M.U., Koirala, A., Ergun, H., Van Hertem, D. (2022). Flexible and curtailable resource activation in three-phase unbalanced distribution networks. Electric Power Systems Research, 212, Art.No. 108608. doi: <a href="10.1016/j.epsr.2022.108608"> 10.1016/j.epsr.2022.108608 </a> (Impact factor: 3.41)
-  9.	Geth, F., Heidari, R., Koirala, A. (2022). Computational Analysis of Impedance Transformations for Four-Wire Power Networks with Sparse Neutral Grounding. In: e-Energy '22: Proceedings of the Thirteenth ACM International Conference on Future Energy Systems, (105-113). Presented at the ACM e-Energy 2022, Virtual, 29 Jun 2022-01 Jul 2022. New York, NY, United States. ISBN: 978-1-4503-9397-3. doi: <a href="10.1145/3538637.3538844"> 10.1145/3538637.3538844 </a>
+   1.	Koirala, A., Van Acker, T., D’hulst, R., Van Hertem, D. with Koirala, A. (corresp. author) (2022). Hosting capacity of photovoltaic systems in low voltage distribution systems: A benchmark of deterministic and stochastic approaches. Renewable and Sustainable Energy Reviews, 155, Art.No. 111899. doi: <a href="10.1016/j.rser.2021.111899"> 10.1016/j.rser.2021.111899 </a> (citations: 12) (Impact factor: 14.98)
+  
+   2.	Koirala, A., Suárez-Ramón, L., Mohamed, B., Arboleya, P. with Arboleya, P. (corresp. author) (2020). Non-synthetic European low voltage test system. International Journal of Electrical Power & Energy Systems, Art.No. 105712. doi: <a href="10.1016/j.ijepes.2019.105712"> 10.1016/j.ijepes.2019.105712 </a> (citations: 41) (Impact factor: 4.63)
+  
+   3.	Koirala, A., D'hulst, R., Van Hertem, D. (2019). Impedance modelling for European style Distribution Feeder. In: 2019 International Conference on Smart Energy Systems and Technologies (SEST), (1-1). Presented at the 2019 International Conference on Smart Energy Systems and Technologies (SEST), Porto, Portugal, 09 Sep 2019-11 Sep 2019. doi: <a href="10.1109/SEST.2019.8849015"> 10.1109/SEST.2019.8849015 </a> (citations: 12) 
+  
+   4.	Koirala, A., Van Acker, T., D'hulst, R., Van Hertem, D. with Koirala, A. (corresp. author) (2022). Uncertainty quantification in low voltage distribution grids: Comparing Monte Carlo and general polynomial chaos approaches. Sustainable Energy, Grids and Networks, Art.No. 100763. doi: <a href="10.1016/j.segan.2022.100763"> 10.1016/j.segan.2022.100763 </a> (citations: 2) (Impact factor: 3.90)
+  
+   5.	Koirala, A., Hashmi, M.U., D'hulst, R., Van Hertem, D. (2022). Decoupled probabilistic feeder hosting capacity calculations using general polynomial chaos. Electric Power Systems Research, 211, Art.No. 108535. doi: <a href="10.1016/j.epsr.2022.108535"> 10.1016/j.epsr.2022.108535 </a> (Impact factor: 3.41) 
+  
+   6.	Van Acker, T., Geth, F., Koirala, A., Ergun, H. (2022). General polynomial chaos in the current–voltage formulation of the optimal power flow problem. Electric Power Systems Research, 211, Art.No. 108472. doi: <a href="10.1016/j.epsr.2022.108472"> 10.1016/j.epsr.2022.108472 </a> (Impact factor: 3.41)
+   
+   7.	Hoogsteyn, A., Vanin, M., Koirala, A., Van Hertem, D. (2022). Low voltage customer phase identification methods based on smart meter data. Electric Power Systems Research, 212, Art.No. 108524. doi: <a href="10.1016/j.epsr.2022.108524"> 10.1016/j.epsr.2022.108524 </a> (citations: 2) (Impact factor: 3.41)
+  
+   8.	Hashmi, M.U., Koirala, A., Ergun, H., Van Hertem, D. (2022). Flexible and curtailable resource activation in three-phase unbalanced distribution networks. Electric Power Systems Research, 212, Art.No. 108608. doi: <a href="10.1016/j.epsr.2022.108608"> 10.1016/j.epsr.2022.108608 </a> (Impact factor: 3.41)
+   
+   9.	Geth, F., Heidari, R., Koirala, A. (2022). Computational Analysis of Impedance Transformations for Four-Wire Power Networks with Sparse Neutral Grounding. In: e-Energy '22: Proceedings of the Thirteenth ACM International Conference on Future Energy Systems, (105-113). Presented at the ACM e-Energy 2022, Virtual, 29 Jun 2022-01 Jul 2022. New York, NY, United States. ISBN: 978-1-4503-9397-3. doi: <a href="10.1145/3538637.3538844"> 10.1145/3538637.3538844 </a>
 
 
 ## Tools and Open data
 
-1.	StochasticPowerModels.jl : A Julia package to have stochastic optimization of power system problems https://github.com/timmyfaraday/StochasticPowerModels.jl 
-2.	ADRIAN: In house tool of Flemish Research Agency VITO for stochastic power flow. Added a module for analytical method using general polynomial chaos using agile methodology (scrum)
-3.	Non-synthetic European Low voltage network: Data processing tool for EDP, Spain to convert GIS data into power flow simulation with integration of data from 4 different platform <a href="https://data.mendeley.com/datasets/685vgp64sm/1" https://data.mendeley.com/datasets/685vgp64sm/1 </a>
+  1.	StochasticPowerModels.jl : A Julia package to have stochastic optimization of power system problems <a href="https://github.com/timmyfaraday/StochasticPowerModels.jl"> https://github.com/timmyfaraday/StochasticPowerModels.jl </a> 
+  
+  2.	ADRIAN: In house tool of Flemish Research Agency VITO for stochastic power flow. Added a module for analytical method using general polynomial chaos using agile methodology (scrum)
+  
+  3.	Non-synthetic European Low voltage network: Data processing tool for EDP, Spain to convert GIS data into power flow simulation with integration of data from 4 different platform <a href="https://data.mendeley.com/datasets/685vgp64sm/1" https://data.mendeley.com/datasets/685vgp64sm/1 </a>
 
 ## Teaching portfolio 
 
-•	Lab assistant and course responsible for course 'Smart Distribution System' for Master in Energy (2019 -2020),  
-•	Teaching assistant for “Electrical Energy and Drive” for Bachelors in Engineering (2019), 
-•	Coach for “Project and Development” for 2nd year Bachelors in Engineering (2020)
-•	Setup of experiment for smart grid voltage control to prevent cut-off of grid-connected inverter using programmable load, Sunnyboy inverter, PV source and Ethernet 
+  •	Lab assistant and course responsible for course 'Smart Distribution System' for Master in Energy (2019 -2020).  
+  
+  •	Teaching assistant for “Electrical Energy and Drive” for Bachelors in Engineering (2019). 
+  
+  •	Coach for “Project and Development” for 2nd year Bachelors in Engineering (2020).
+  
+  •	Setup of experiment for smart grid voltage control to prevent cut-off of grid-connected inverter using programmable load, Sunnyboy inverter, PV source and Ethernet. 
 
  
 
