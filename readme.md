@@ -10,7 +10,7 @@ Current address:	Genk, Belgium
 
 Orchid Id:		0000-0003-4826-7137
 
-Google Scholar:	 <a href="https://scholar.google.be/citations?user=w3AVacQAAAAJ&hl=en"> [sc.google/arpan](https://scholar.google.be/citations?user=w3AVacQAAAAJ&hl=en) </a>
+Google Scholar:	 <a href="https://scholar.google.be/citations?user=w3AVacQAAAAJ&hl=en"> [scholar.google/arpan](https://scholar.google.be/citations?user=w3AVacQAAAAJ&hl=en) </a>
 
 Date of CV:		2022/12/14
 
@@ -39,7 +39,7 @@ GPA-9.28/10, Percentage-92.80
 - Dutch	      		A1
 - Nepali and Hindi 	native
 
-### Current Role
+## Current Role
  
 Function – Research Assistant/ Post-doctoral researcher
 
@@ -52,101 +52,98 @@ Location- Belgium,
  -	 Supervised 4 master thesis students and 4 summer job interns
  -	 Participated in 2 new proposals for EU and Belgian funding
 
-Grid studies for bidirectional and fluctuating electricity flow: Project BREGILAB (2018-2022)
+### Grid studies for bidirectional and fluctuating electricity flow: Project BREGILAB (2018-2022)
 
 Funded by Federal Department of Energy, Energy transition Fund
 
 Project partners: KU Leuven, VITO, IMEC, University of Hasselt
 
-Main tasks (Responsible for one complete work package out of seven)
+#### Main tasks 
+
+Responsible for one complete work package out of seven
+
   •	Probabilistic grid congestion studies in low voltage distribution systems using simulation based approach (Monte-Carlo and quasi Monte-Carlo approach) and analytical surrogate modelling based methods (general polynomial chaos (gPC) approach).
   •	Innovative Hosting Capacity calculation methods to see the impact of planning scenarios in operational limits.
   •	Chance constrained optimization tool to calculate stochastic hosting capacity.
 
-## Main results
+#### Main results
  •	Methodology to compute hosting capacity of distribution feeders of Flanders region in Belgium.
  •	Test cases of active load management.
  •	Collaboration to form an energy atlas (map with energy potential) of Belgium.
 
-Developing Universal Approach on use of Flexibility by Distribution System Operators: Project EUniversal (2020-2022)
+### Developing Universal Approach on use of Flexibility by Distribution System Operators: Project EUniversal (2020-2022)
 
 Funded by European Union, H2020 EUniversal project
 
 Project partners: KU Leuven, VITO, Mitznet
 
-Main tasks (Research assistant on German demo out of three demos)
+#### Main tasks (Research assistant on German demo out of three demos)
   •	Julia implementation of novel flexibility assessment tool for distribution feeders of Mitznet, Germany
 
-Main results
+#### Main results
   •	Flexibility demo for Mitznet, Germany as part of project E-universal
 
 
-Decision Support for Distribution System Operator: Project ADRIAN (2018-2022)
+### Decision Support for Distribution System Operator: Project ADRIAN (2018-2022)
 
 Funded by Fluvius (A DSO in Flanders region of Belgium)
 
 Project partners: KU Leuven, VITO, Fluvius
 
-Main tasks
+#### Main tasks
  •	Python implementation for hosting capacity assessment tool
  •	Evaluation and mapping of PV hosting capacity of all feeders (350,000) of the Flanders region in Belgium  
 
-Main results
+#### Main results
  •	Python based Tool for DSO to evaluate the hosting capacity of their feeders
 
 
-Data driven optimization models for secure real-time operation of renewable dominated power systems: Project DISCRETE (2022-2025)
+### Data driven optimization models for secure real-time operation of renewable dominated power systems: Project DISCRETE (2022-2025)
 
 Funded by Federal Department of Energy, Energy transition Fund
 
 Project partners: KU Leuven, University of Mons
 
-Main tasks
+#### Main tasks
   •	Ongoing Julia implementation of analytical stochastic optimal power flow tool for HVDC network
 
 
 
 ## Work Experience
 
-Function -Research Engineer (Internship/ Master Thesis)
-
-March 2018 – October 2018 
+### Research Engineer (Internship/ Master Thesis) (March 2018 – October 2018) 
 
 EDP HC Energia, Oviedo 
 
 Location- Spain
 
-Real European low voltage test network for smart grid applications
+#### Real European low voltage test network for smart grid applications
 
-Main results
+##### Main results
   •	A methodology to integrate data from different sources GIS data, smart meter data, SCADA and field measurements (from EDP) into a common platform to have steady-state analysis of the system.
   •	Non-synthetic European Low voltage network: Data processing tool for EDP, Spain to convert GIS data into power flow simulation with integration of data from 4 different platform.
 
-Function -Consultant
-
-April 2016 – August 2016 
+### Consultant (April 2016 – August 2016) 
 
 Centre for Technology Alternatives for Rural Area (CTARA), IIT Bombay, Mumbai (India)
 
 Location- India
 
 
-  • Consultant for three state distribution companies in India.
+#### Consultant for three state distribution companies in India.
 
-Main results
+##### Main results
   •	Data and reports regarding the tariff of agricultural consumers of different states for the state regulatory.
 
-Function -Electrical Engineer
-
-July 2013 – December 2015 
+### Electrical Engineer (July 2013 – December 2015) 
 
 Tata Power Delhi Distribution Limited, New Delhi 
 
 Location- India
 
-Predictive and preventive maintenance activity planning and execution of 33 kV and 11 kV grids and commercial and operation head for a district with 40000 customers (Industrial and residential mix).
+#### Predictive and preventive maintenance activity planning and execution of 33 kV and 11 kV grids and commercial and operation head for a district with 40000 customers (Industrial and residential mix).
 
-Main results
+##### Main results
   •	Network improvement in seven urban ghettos of New Delhi with a population of 0.3 billion in 3 square km of area reducing theft from existing 13% to 6%.
   • Introduced analytical tools for theft detection in low voltage distribution network.
 
@@ -155,7 +152,7 @@ Main results
  
  8 Journals (4 Journals as main author, and 4 as co-author), 11 conference papers (4 as main author) 
 
-Top papers: (Citations from google scholar, Total citation: 102)
+### Top papers: (Citations from google scholar, Total citation: 102)
   1.	Koirala, A., Van Acker, T., D’hulst, R., Van Hertem, D. with Koirala, A. (corresp. author) (2022). Hosting capacity of photovoltaic systems in low voltage distribution systems: A benchmark of deterministic and stochastic approaches. Renewable and Sustainable Energy Reviews, 155, Art.No. 111899. doi: 10.1016/j.rser.2021.111899 (citations: 12) (Impact factor: 14.98)
   2.	Koirala, A., Suárez-Ramón, L., Mohamed, B., Arboleya, P. with Arboleya, P. (corresp. author) (2020). Non-synthetic European low voltage test system. International Journal of Electrical Power & Energy Systems, Art.No. 105712. doi: 10.1016/j.ijepes.2019.105712 (citations: 41) (Impact factor: 4.63)
   3.	Koirala, A., D'hulst, R., Van Hertem, D. (2019). Impedance modelling for European style Distribution Feeder. In: 2019 International Conference on Smart Energy Systems and Technologies (SEST), (1-1). Presented at the 2019 International Conference on Smart Energy Systems and Technologies (SEST), Porto, Portugal, 09 Sep 2019-11 Sep 2019. doi: 10.1109/SEST.2019.8849015 (citations: 12) 
@@ -171,9 +168,10 @@ Top papers: (Citations from google scholar, Total citation: 102)
 
 1.	StochasticPowerModels.jl : A Julia package to have stochastic optimization of power system problems https://github.com/timmyfaraday/StochasticPowerModels.jl 
 2.	ADRIAN: In house tool of Flemish Research Agency VITO for stochastic power flow. Added a module for analytical method using general polynomial chaos using agile methodology (scrum)
-3.	Non-synthetic European Low voltage network: Data processing tool for EDP, Spain to convert GIS data into power flow simulation with integration of data from 4 different platform https://data.mendeley.com/datasets/685vgp64sm/1
+3.	Non-synthetic European Low voltage network: Data processing tool for EDP, Spain to convert GIS data into power flow simulation with integration of data from 4 different platform <a href="https://data.mendeley.com/datasets/685vgp64sm/1" https://data.mendeley.com/datasets/685vgp64sm/1 </a>
 
 ## Teaching portfolio 
+
 •	Lab assistant and course responsible for course 'Smart Distribution System' for Master in Energy (2019 -2020),  
 •	Teaching assistant for “Electrical Energy and Drive” for Bachelors in Engineering (2019), 
 •	Coach for “Project and Development” for 2nd year Bachelors in Engineering (2020)
@@ -182,8 +180,9 @@ Top papers: (Citations from google scholar, Total citation: 102)
  
 
 
- ## Research supervision and leadership experience
-Co-supervisor (Master thesis) and supervisor (summer job)
+## Research supervision and leadership experience
+
+### Co-supervisor (Master thesis) and supervisor (summer job)
 •	Master of Electrical Energy – 2 students
 •	KIC Innoenergy, Master of Energy -1 student
 •	Master of Energy Science (Erasmus)- 1 student
