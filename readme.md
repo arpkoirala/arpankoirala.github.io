@@ -41,16 +41,15 @@ GPA-9.28/10, Percentage-92.80
 
 ## Current Role
  
-Function – Research Assistant/ Post-doctoral researcher
-
-Nov 2018 – till date
+### Research Assistant/ Post-doctoral researcher (Nov 2018 – till date)
 
 KU Leuven and Energyville, Belgium 
 
 Location- Belgium, 
- -	 Worked on three different projects with work package leader of one
- -	 Supervised 4 master thesis students and 4 summer job interns
- -	 Participated in 2 new proposals for EU and Belgian funding
+
+##### Worked on three different projects with work package leader of one
+##### Supervised 4 master thesis students and 4 summer job interns
+##### Participated in 2 new proposals for EU and Belgian funding
 
 ### Grid studies for bidirectional and fluctuating electricity flow: Project BREGILAB (2018-2022)
 
