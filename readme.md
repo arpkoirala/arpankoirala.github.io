@@ -10,7 +10,7 @@ Current address:	Genk, Belgium
 
 Orchid Id:		0000-0003-4826-7137
 
-Google Scholar:	 https://scholar.google.be/citations?user=w3AVacQAAAAJ&hl=en
+Google Scholar:	 <a href="https://scholar.google.be/citations?user=w3AVacQAAAAJ&hl=en"> [sc.google/arpan](https://scholar.google.be/citations?user=w3AVacQAAAAJ&hl=en) </a>
 
 Date of CV:		2022/12/14
 
