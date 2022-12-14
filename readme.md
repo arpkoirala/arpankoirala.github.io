@@ -1,14 +1,20 @@
  
 
 Name:			Arpan Koirala
+
 Date of birth: 		20 March 1991
+
 Nationality: 		Nepal
-Current address:	Lappeenranta, Finland/ Genk, Belgium
+
+Current address:	Genk, Belgium
+
 Orchid Id:		0000-0003-4826-7137
+
 Google Scholar:	https://scholar.google.be/citations?user=w3AVacQAAAAJ&hl=en
-Date of CV:		2022/09/27
 
+Date of CV:		2022/12/14
 
+## Summary of Qualification
  
 -	Self-motivated proactive individual with interest on optimization, data science, energy market and energy transition,
 -	Strong problem skills using analytical tools with keen insights from data,
@@ -16,28 +22,29 @@ Date of CV:		2022/09/27
 -	Skill of handling multiple projects at same time,
 -	Team player alongside the individual goals.
 
- 
-•	Doctor of Engineering Science (PhD): Electrical Engineering (Nov, 2022)
+##Degree 
+-	Doctor of Engineering Science (PhD): Electrical Engineering (Nov, 2022)
 Stochastic Hosting Capacity of Low Voltage Distribution Systems Using Polynomial Chaos Expansion 
 Energyville and ELECTA, KU Leuven, Belgium
-•	Erasmus Mundus Master Course In Sustainable Transportation And Electrical Power Systems (2016-2018) Joint degree from University of Nottingham (UK), University of Oviedo (Spain), La Sapienza (Italy), 2:1 Honors-– 8.94/10
-•	Bachelor of Technology In Electrical Engineering (2009-2013)
+- Erasmus Mundus Master Course In Sustainable Transportation And Electrical Power Systems (2016-2018) Joint degree from University of Nottingham (UK), University of Oviedo (Spain), La Sapienza (Italy), 2:1 Honors-– 8.94/10
+- Bachelor of Technology In Electrical Engineering (2009-2013)
 Motilal Nehru National Institute of Technology, Allahabad (India)
 GPA-9.28/10, Percentage-92.80 
  
-•	English        		C2
-•	Spanish       		A2
-•	Dutch	      		A1
-•	Nepali and Hindi 	native
+ ##Language skills
+- English        		C2
+- Spanish       		A2
+- Dutch	      		A1
+- Nepali and Hindi 	native
 
- 
+ ## Current Role
 Function – Research Assistant/ Post-doctoral researcher
 Nov 2018 – till date
 KU Leuven and Energyville, Belgium 
 Location- Belgium, 
--	Worked on three different projects with work package leader of one
--	Supervised 4 master thesis students and 4 summer job interns
--	Participated in 2 new proposals for EU and Belgian funding
+ -	 Worked on three different projects with work package leader of one
+ -	 Supervised 4 master thesis students and 4 summer job interns
+ -	Participated in 2 new proposals for EU and Belgian funding
 
 Project
 Grid studies for bidirectional and fluctuating electricity flow: Project BREGILAB (2018-2022)
