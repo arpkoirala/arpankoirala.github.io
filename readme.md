@@ -59,11 +59,11 @@ Project partners: KU Leuven, VITO, IMEC, University of Hasselt
 
 Responsible for one complete work package out of seven
 
-    •	Probabilistic grid congestion studies in low voltage distribution systems using simulation based approach (Monte-Carlo and quasi Monte-Carlo approach) and analytical surrogate modelling based methods (general polynomial chaos (gPC) approach).
+   •	Probabilistic grid congestion studies in low voltage distribution systems using simulation based approach (Monte-Carlo and quasi Monte-Carlo approach) and analytical surrogate modelling based methods (general polynomial chaos (gPC) approach).
     
-    •	Innovative Hosting Capacity calculation methods to see the impact of planning scenarios in operational limits.
+   •	Innovative Hosting Capacity calculation methods to see the impact of planning scenarios in operational limits.
     
-    •	Chance constrained optimization tool to calculate stochastic hosting capacity.
+   •	Chance constrained optimization tool to calculate stochastic hosting capacity.
 
 #### Main results
  
@@ -93,13 +93,13 @@ Funded by Fluvius (A DSO in Flanders region of Belgium)
 Project partners: KU Leuven, VITO, Fluvius
 
 #### Main tasks
-   •	Python implementation for hosting capacity assessment tool
+  •	Python implementation for hosting capacity assessment tool
  
-   •	Evaluation and mapping of PV hosting capacity of all feeders (350,000) of the Flanders region in Belgium  
+  •	Evaluation and mapping of PV hosting capacity of all feeders (350,000) of the Flanders region in Belgium  
 
 #### Main results
    
-   •	Python based Tool for DSO to evaluate the hosting capacity of their feeders
+  •	Python based Tool for DSO to evaluate the hosting capacity of their feeders
 
 
 ### Data driven optimization models for secure real-time operation of renewable dominated power systems: Project DISCRETE (2022-2025)
@@ -110,7 +110,7 @@ Project partners: KU Leuven, University of Mons
 
 #### Main tasks
   
-    •	Ongoing Julia implementation of analytical stochastic optimal power flow tool for HVDC network
+   •	Ongoing Julia implementation of analytical stochastic optimal power flow tool for HVDC network
 
 
 
@@ -126,9 +126,9 @@ Location- Spain
 
 ##### Main results
 
-    •	A methodology to integrate data from different sources GIS data, smart meter data, SCADA and field measurements (from EDP) into a common platform to have steady-state analysis of the system.
+   •	A methodology to integrate data from different sources GIS data, smart meter data, SCADA and field measurements (from EDP) into a common platform to have steady-state analysis of the system.
   
-    •	Non-synthetic European Low voltage network: Data processing tool for EDP, Spain to convert GIS data into power flow simulation with integration of data from 4 different platform.
+   •	Non-synthetic European Low voltage network: Data processing tool for EDP, Spain to convert GIS data into power flow simulation with integration of data from 4 different platform.
 
 ### Consultant (April 2016 – August 2016) 
 
@@ -141,7 +141,7 @@ Location- India
 
 ##### Main results
     
-    •	Data and reports regarding the tariff of agricultural consumers of different states for the state regulatory.
+   •	Data and reports regarding the tariff of agricultural consumers of different states for the state regulatory.
 
 ### Electrical Engineer (July 2013 – December 2015) 
 
@@ -153,9 +153,9 @@ Location- India
 
 ##### Main results
   
-    •	Network improvement in seven urban ghettos of New Delhi with a population of 0.3 billion in 3 square km of area reducing theft from existing 13% to 6%.
+   •	Network improvement in seven urban ghettos of New Delhi with a population of 0.3 billion in 3 square km of area reducing theft from existing 13% to 6%.
   
-    • Introduced analytical tools for theft detection in low voltage distribution network.
+   • Introduced analytical tools for theft detection in low voltage distribution network.
 
  
 ## Publications:
