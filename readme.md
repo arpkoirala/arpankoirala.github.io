@@ -10,7 +10,7 @@ Current address:	Genk, Belgium
 
 Orchid Id:		0000-0003-4826-7137
 
-Google Scholar:	https://scholar.google.be/citations?user=w3AVacQAAAAJ&hl=en
+Google Scholar:	 https://scholar.google.be/citations?user=w3AVacQAAAAJ&hl=en
 
 Date of CV:		2022/12/14
 
@@ -23,6 +23,7 @@ Date of CV:		2022/12/14
 -	Team player alongside the individual goals.
 
 ## Degree 
+
 -	Doctor of Engineering Science (PhD): Electrical Engineering (Nov, 2022)
 Stochastic Hosting Capacity of Low Voltage Distribution Systems Using Polynomial Chaos Expansion 
 Energyville and ELECTA, KU Leuven, Belgium
@@ -32,19 +33,21 @@ Motilal Nehru National Institute of Technology, Allahabad (India)
 GPA-9.28/10, Percentage-92.80 
  
  ## Language skills
+ 
 - English        		C2
 - Spanish       		A2
 - Dutch	      		A1
 - Nepali and Hindi 	native
 
  ## Current Role
+ 
 Function – Research Assistant/ Post-doctoral researcher
 Nov 2018 – till date
 KU Leuven and Energyville, Belgium 
 Location- Belgium, 
  -	 Worked on three different projects with work package leader of one
  -	 Supervised 4 master thesis students and 4 summer job interns
- -	Participated in 2 new proposals for EU and Belgian funding
+ -	 Participated in 2 new proposals for EU and Belgian funding
 
 Project
 Grid studies for bidirectional and fluctuating electricity flow: Project BREGILAB (2018-2022)
