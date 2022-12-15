@@ -1,6 +1,5 @@
-# Arpan Koirala <p align="right">
  <img align="right" style="float:right" src="/img/arpan.jpg" width ="160" >
- </p>
+
 
 Date of birth: 		20 March 1991          
 
