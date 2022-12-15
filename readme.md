@@ -1,6 +1,4 @@
- 
-
-Name:			Arpan Koirala
+# Arpan Koirala
 
 Date of birth: 		20 March 1991
 
