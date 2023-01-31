@@ -28,6 +28,8 @@ Date of CV:		2022/12/14
 -	Doctor of Engineering Science (PhD): Electrical Engineering (Nov, 2022)
 Stochastic Hosting Capacity of Low Voltage Distribution Systems Using Polynomial Chaos Expansion 
 Energyville and ELECTA, KU Leuven, Belgium
+
+Thesis: <a href="https://tinyurl.com/arpanthesis"> [final.thesis/arpan](https://tinyurl.com/arpanthesis) </a> 
 - Erasmus Mundus Master Course In Sustainable Transportation And Electrical Power Systems (2016-2018) Joint degree from University of Nottingham (UK), University of Oviedo (Spain), La Sapienza (Italy), 2:1 Honors-– 8.94/10
 - Bachelor of Technology In Electrical Engineering (2009-2013)
 Motilal Nehru National Institute of Technology, Allahabad (India)
@@ -163,7 +165,7 @@ Location- India
  
  8 Journals (4 Journals as main author, and 4 as co-author), 11 conference papers (4 as main author) 
 
-### Top papers: (Citations from google scholar, Total citation: 102)
+### Top papers: (Citations from google scholar, Total citation: 116)
    1.	Koirala, A., Van Acker, T., D’hulst, R., Van Hertem, D. with Koirala, A. (corresp. author) (2022). Hosting capacity of photovoltaic systems in low voltage distribution systems: A benchmark of deterministic and stochastic approaches. Renewable and Sustainable Energy Reviews, 155, Art.No. 111899. doi: <a href="10.1016/j.rser.2021.111899"> 10.1016/j.rser.2021.111899 </a> (citations: 12) (Impact factor: 14.98)
   
    2.	Koirala, A., Suárez-Ramón, L., Mohamed, B., Arboleya, P. with Arboleya, P. (corresp. author) (2020). Non-synthetic European low voltage test system. International Journal of Electrical Power & Energy Systems, Art.No. 105712. doi: <a href="10.1016/j.ijepes.2019.105712"> 10.1016/j.ijepes.2019.105712 </a> (citations: 41) (Impact factor: 4.63)
