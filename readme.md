@@ -13,7 +13,7 @@ Orchid Id:		0000-0003-4826-7137
 
 Google Scholar:	 <a href="https://scholar.google.be/citations?user=w3AVacQAAAAJ&hl=en"> [scholar.google/arpan](https://scholar.google.be/citations?user=w3AVacQAAAAJ&hl=en) </a>
 
-Date of CV:		2022/12/14
+Date of CV:		2023/02/01
 
 ## Summary of Qualification
  
