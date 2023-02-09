@@ -30,6 +30,8 @@ Stochastic Hosting Capacity of Low Voltage Distribution Systems Using Polynomial
 Energyville and ELECTA, KU Leuven, Belgium
 
 Thesis: <a href="https://tinyurl.com/arpanthesis"> [final.thesis/arpan](https://tinyurl.com/arpanthesis) </a> 
+
+Presentation during the public defense: <a href="https://www.youtube.com/watch?v=ZCNzG_nBris"> [Public defense/arpan](https://www.youtube.com/watch?v=ZCNzG_nBris) </a>
 - Erasmus Mundus Master Course In Sustainable Transportation And Electrical Power Systems (2016-2018) Joint degree from University of Nottingham (UK), University of Oviedo (Spain), La Sapienza (Italy), 2:1 Honors-– 8.94/10
 - Bachelor of Technology In Electrical Engineering (2009-2013)
 Motilal Nehru National Institute of Technology, Allahabad (India)
