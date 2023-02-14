@@ -15,6 +15,10 @@ Google Scholar:	 <a href="https://scholar.google.be/citations?user=w3AVacQAAAAJ&
 
 Date of CV:		2023/02/01
 
+Email: arpankoirala@gmail.com
+
+Tel. No: +32-456308614
+
 ## Summary of Qualification
  
 -	Self-motivated proactive individual with interest on optimization, data science, energy market and energy transition,
