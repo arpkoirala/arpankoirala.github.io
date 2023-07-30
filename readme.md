@@ -1,7 +1,5 @@
  <img align="right" style="float:right" src="/img/arpan.jpg" width ="160" >
 
-## Arpan Koirala 
-
 Power System Engineer
 
 Orchid Id:		0000-0003-4826-7137
