@@ -1,27 +1,24 @@
  <img align="right" style="float:right" src="/img/arpan.jpg" width ="160" >
 
+## Arpan Koirala 
 
-Date of birth: 		20 March 1991          
-
- 
-
-Nationality: 		Nepal
-
-Current address:	Genk, Belgium
+Power System Engineer
 
 Orchid Id:		0000-0003-4826-7137
 
 Google Scholar:	 <a href="https://scholar.google.be/citations?user=w3AVacQAAAAJ&hl=en"> [scholar.google/arpan](https://scholar.google.be/citations?user=w3AVacQAAAAJ&hl=en) </a>
 
-Date of CV:		2023/02/01
+Date of CV:		2023/07/30
 
 Email: arpankoirala@gmail.com
 
-Tel. No: +32-456308614
+Tel. No: +358-504070044, +32-456308614
+
+Current address:	Lappeenranta, Finland
 
 ## Summary of Qualification
  
--	Self-motivated proactive individual with interest on optimization, data science, energy market and energy transition,
+-	Self-motivated proactive individual with interest on grid studies, optimization, data science, energy market and energy transition,
 -	Strong problem skills using analytical tools with keen insights from data,
 -	Knowledge of electrical engineering, economics, stochastic process, and numerical methods,
 -	Skill of handling multiple projects at same time,
@@ -46,11 +43,19 @@ GPA-9.28/10, Percentage-92.80
 - English        		C2
 - Spanish       		A2
 - Dutch	      		A1
+- Finnish       A1
 - Nepali and Hindi 	native
 
 ## Current Role
- 
-### Research Assistant/ Post-doctoral researcher (Nov 2018 – till date)
+### Power System Expert (June 2023- )
+Ampner Oy, Vaasa, Finland <a href="https://www.ampner.com/"> (https://www.ampner.com/) </a>
+
+##### Grid compliance studies for Wind power plants and storage
+##### Research and development in grid studies for transmission and distributiuon grids
+
+## Work Experience
+
+### Research Assistant/ Post-doctoral researcher (Nov 2018 – May 2023)
 
 KU Leuven and Energyville, Belgium 
 
@@ -123,7 +128,7 @@ Project partners: KU Leuven, University of Mons
 
 
 
-## Work Experience
+
 
 ### Research Engineer (Internship/ Master Thesis) (March 2018 – October 2018) 
 
@@ -169,24 +174,24 @@ Location- India
  
 ## Publications:
  
- 8 Journals (4 Journals as main author, and 4 as co-author), 11 conference papers (4 as main author) 
+ 12 Journals (5 Journals as main author, and 7 as co-author), 14 conference papers (4 as main author) 
 
-### Top papers: (Citations from google scholar, Total citation: 116)
-   1.	Koirala, A., Van Acker, T., D’hulst, R., Van Hertem, D. with Koirala, A. (corresp. author) (2022). Hosting capacity of photovoltaic systems in low voltage distribution systems: A benchmark of deterministic and stochastic approaches. Renewable and Sustainable Energy Reviews, 155, Art.No. 111899. doi: <a href="10.1016/j.rser.2021.111899"> 10.1016/j.rser.2021.111899 </a> (citations: 12) (Impact factor: 14.98)
+### Top papers: (Citations from google scholar, Total citation: 170 om 30/07/2023)
+   1.	Koirala, A., Van Acker, T., D’hulst, R., Van Hertem, D. with Koirala, A. (corresp. author) (2022). Hosting capacity of photovoltaic systems in low voltage distribution systems: A benchmark of deterministic and stochastic approaches. Renewable and Sustainable Energy Reviews, 155, Art.No. 111899. doi: <a href="10.1016/j.rser.2021.111899"> 10.1016/j.rser.2021.111899 </a> (citations: 31) (Impact factor: 14.98)
   
-   2.	Koirala, A., Suárez-Ramón, L., Mohamed, B., Arboleya, P. with Arboleya, P. (corresp. author) (2020). Non-synthetic European low voltage test system. International Journal of Electrical Power & Energy Systems, Art.No. 105712. doi: <a href="10.1016/j.ijepes.2019.105712"> 10.1016/j.ijepes.2019.105712 </a> (citations: 41) (Impact factor: 4.63)
+   2.	Koirala, A., Suárez-Ramón, L., Mohamed, B., Arboleya, P. with Arboleya, P. (corresp. author) (2020). Non-synthetic European low voltage test system. International Journal of Electrical Power & Energy Systems, Art.No. 105712. doi: <a href="10.1016/j.ijepes.2019.105712"> 10.1016/j.ijepes.2019.105712 </a> (citations: 49) (Impact factor: 4.63)
   
-   3.	Koirala, A., D'hulst, R., Van Hertem, D. (2019). Impedance modelling for European style Distribution Feeder. In: 2019 International Conference on Smart Energy Systems and Technologies (SEST), (1-1). Presented at the 2019 International Conference on Smart Energy Systems and Technologies (SEST), Porto, Portugal, 09 Sep 2019-11 Sep 2019. doi: <a href="10.1109/SEST.2019.8849015"> 10.1109/SEST.2019.8849015 </a> (citations: 12) 
+   3.	Koirala, A., D'hulst, R., Van Hertem, D. (2019). Impedance modelling for European style Distribution Feeder. In: 2019 International Conference on Smart Energy Systems and Technologies (SEST), (1-1). Presented at the 2019 International Conference on Smart Energy Systems and Technologies (SEST), Porto, Portugal, 09 Sep 2019-11 Sep 2019. doi: <a href="10.1109/SEST.2019.8849015"> 10.1109/SEST.2019.8849015 </a> (citations: 15) 
   
-   4.	Koirala, A., Van Acker, T., D'hulst, R., Van Hertem, D. with Koirala, A. (corresp. author) (2022). Uncertainty quantification in low voltage distribution grids: Comparing Monte Carlo and general polynomial chaos approaches. Sustainable Energy, Grids and Networks, Art.No. 100763. doi: <a href="10.1016/j.segan.2022.100763"> 10.1016/j.segan.2022.100763 </a> (citations: 2) (Impact factor: 3.90)
+   4.	Koirala, A., Van Acker, T., D'hulst, R., Van Hertem, D. with Koirala, A. (corresp. author) (2022). Uncertainty quantification in low voltage distribution grids: Comparing Monte Carlo and general polynomial chaos approaches. Sustainable Energy, Grids and Networks, Art.No. 100763. doi: <a href="10.1016/j.segan.2022.100763"> 10.1016/j.segan.2022.100763 </a> (citations: 7) (Impact factor: 3.90)
   
-   5.	Koirala, A., Hashmi, M.U., D'hulst, R., Van Hertem, D. (2022). Decoupled probabilistic feeder hosting capacity calculations using general polynomial chaos. Electric Power Systems Research, 211, Art.No. 108535. doi: <a href="10.1016/j.epsr.2022.108535"> 10.1016/j.epsr.2022.108535 </a> (Impact factor: 3.41) 
+   5.	Koirala, A., Hashmi, M.U., D'hulst, R., Van Hertem, D. (2022). Decoupled probabilistic feeder hosting capacity calculations using general polynomial chaos. Electric Power Systems Research, 211, Art.No. 108535. doi: <a href="10.1016/j.epsr.2022.108535"> 10.1016/j.epsr.2022.108535 </a> (citations: 4) (Impact factor: 3.41) 
   
-   6.	Van Acker, T., Geth, F., Koirala, A., Ergun, H. (2022). General polynomial chaos in the current–voltage formulation of the optimal power flow problem. Electric Power Systems Research, 211, Art.No. 108472. doi: <a href="10.1016/j.epsr.2022.108472"> 10.1016/j.epsr.2022.108472 </a> (Impact factor: 3.41)
+   6.	Van Acker, T., Geth, F., Koirala, A., Ergun, H. (2022). General polynomial chaos in the current–voltage formulation of the optimal power flow problem. Electric Power Systems Research, 211, Art.No. 108472. doi: <a href="10.1016/j.epsr.2022.108472"> 10.1016/j.epsr.2022.108472 </a> (citations: 5) (Impact factor: 3.41)
    
-   7.	Hoogsteyn, A., Vanin, M., Koirala, A., Van Hertem, D. (2022). Low voltage customer phase identification methods based on smart meter data. Electric Power Systems Research, 212, Art.No. 108524. doi: <a href="10.1016/j.epsr.2022.108524"> 10.1016/j.epsr.2022.108524 </a> (citations: 2) (Impact factor: 3.41)
+   7.	Hoogsteyn, A., Vanin, M., Koirala, A., Van Hertem, D. (2022). Low voltage customer phase identification methods based on smart meter data. Electric Power Systems Research, 212, Art.No. 108524. doi: <a href="10.1016/j.epsr.2022.108524"> 10.1016/j.epsr.2022.108524 </a> (citations: 5) (Impact factor: 3.41)
   
-   8.	Hashmi, M.U., Koirala, A., Ergun, H., Van Hertem, D. (2022). Flexible and curtailable resource activation in three-phase unbalanced distribution networks. Electric Power Systems Research, 212, Art.No. 108608. doi: <a href="10.1016/j.epsr.2022.108608"> 10.1016/j.epsr.2022.108608 </a> (Impact factor: 3.41)
+   8.	Hashmi, M.U., Koirala, A., Ergun, H., Van Hertem, D. (2022). Flexible and curtailable resource activation in three-phase unbalanced distribution networks. Electric Power Systems Research, 212, Art.No. 108608. doi: <a href="10.1016/j.epsr.2022.108608"> 10.1016/j.epsr.2022.108608 </a> (citations: 2) (Impact factor: 3.41)
    
    9.	Geth, F., Heidari, R., Koirala, A. (2022). Computational Analysis of Impedance Transformations for Four-Wire Power Networks with Sparse Neutral Grounding. In: e-Energy '22: Proceedings of the Thirteenth ACM International Conference on Future Energy Systems, (105-113). Presented at the ACM e-Energy 2022, Virtual, 29 Jun 2022-01 Jul 2022. New York, NY, United States. ISBN: 978-1-4503-9397-3. doi: <a href="10.1145/3538637.3538844"> 10.1145/3538637.3538844 </a>
 
