@@ -52,6 +52,9 @@ Reactive Technologies, Oulu, Finland <a href="http://www.reactive-technologies.c
 - Active system strength calculation solutions
 - Regional inertia calculations
 ##### Project Engineering Support
+- Digsilent simulations and user defined model
+- Large-scale PSSE models simulations
+- FORTRAN model development of the modulator
 
 ### Power System Expert (June 2023- Jan 2024 )
 Ampner Oy, Vaasa, Finland <a href="https://www.ampner.com/"> (https://www.ampner.com/) </a>
