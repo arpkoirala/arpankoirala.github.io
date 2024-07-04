@@ -57,6 +57,7 @@ Reactive Technologies, Oulu, Finland <a href="http://www.reactive-technologies.c
 - Large-scale PSSE models simulations
 - FORTRAN model development of the modulator
 
+## Work Experience
 ### Power System Expert (June 2023- Jan 2024 )
 Ampner Oy, Vaasa, Finland <a href="https://www.ampner.com/"> (https://www.ampner.com/) </a>
 
@@ -66,8 +67,6 @@ Ampner Oy, Vaasa, Finland <a href="https://www.ampner.com/"> (https://www.ampner
 - Grid code compliance reports for FinGrid
 - Dynamic models creation using FORTRAN
 ##### Research and development in grid studies for transmission and distributiuon grids
-
-## Work Experience
 
 ### Research Assistant/ Post-doctoral researcher (Nov 2018 – May 2023)
 
