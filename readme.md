@@ -1,6 +1,6 @@
  <img align="right" style="float:right" src="/img/arpan.jpg" width ="160" >
 
-Power System Engineer
+Power System Engineer, PhD
 
 Orchid Id:		0000-0003-4826-7137
 
@@ -20,7 +20,8 @@ Current address:	Lappeenranta, Finland
 -	Strong problem skills using analytical tools with keen insights from data,
 -	Knowledge of electrical engineering, economics, stochastic process, and numerical methods,
 -	Skill of handling multiple projects at same time,
--	Team player alongside the individual goals.
+-	Team player alongside the individual goals,
+-	Mixture of academic and industrial background.
 
 ## Degree 
 
